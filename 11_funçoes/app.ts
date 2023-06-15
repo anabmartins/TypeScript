@@ -3,4 +3,4 @@ function somar(x: number, y: number): number {
 }
 
 console.log(somar(5, 6))
-console.log(somar(5, '5'))
+console.log(somar(5, 5))
