@@ -16,6 +16,7 @@ Aula 14/06
 `npx tsc app.ts`
 
 # Tipos de dados
+- Dados básicos
 - Array e Array de Objetos
 - Tuplas
 - Enum
